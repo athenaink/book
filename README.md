@@ -1,2 +1,2 @@
-# athenaink.github.io
+# Athenaink
 Athena Smart Ink System!
